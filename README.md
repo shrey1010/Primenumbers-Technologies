@@ -1,4 +1,4 @@
-Certainly! Here's an example of a detailed README file for the Python script using Selenium to scrape table data from a website:
+
 
 ---
 
